@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/Ccode/test/build",
+  "command": "D:\\Qt\\Tools\\mingw810_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -ID:/Ccode/test/build -ID:/Ccode/test -ID:/Ccode/test/build/test1_autogen/include -isystem D:/Qt/5.15.2/mingw81_64/include -isystem D:/Qt/5.15.2/mingw81_64/include/QtWidgets -isystem D:/Qt/5.15.2/mingw81_64/include/QtGui -isystem D:/Qt/5.15.2/mingw81_64/include/QtANGLE -isystem D:/Qt/5.15.2/mingw81_64/include/QtCore -isystem D:/Qt/5.15.2/mingw81_64/./mkspecs/win32-g++ -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++11 -o CMakeFiles\\test1.dir\\test1_autogen\\mocs_compilation.cpp.obj -c D:\\Ccode\\test\\build\\test1_autogen\\mocs_compilation.cpp",
+  "file": "D:\\Ccode\\test\\build\\test1_autogen\\mocs_compilation.cpp",
+  "output": "CMakeFiles\\test1.dir\\test1_autogen\\mocs_compilation.cpp.obj"
+},
+{
+  "directory": "D:/Ccode/test/build",
+  "command": "D:\\Qt\\Tools\\mingw810_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -ID:/Ccode/test/build -ID:/Ccode/test -ID:/Ccode/test/build/test1_autogen/include -isystem D:/Qt/5.15.2/mingw81_64/include -isystem D:/Qt/5.15.2/mingw81_64/include/QtWidgets -isystem D:/Qt/5.15.2/mingw81_64/include/QtGui -isystem D:/Qt/5.15.2/mingw81_64/include/QtANGLE -isystem D:/Qt/5.15.2/mingw81_64/include/QtCore -isystem D:/Qt/5.15.2/mingw81_64/./mkspecs/win32-g++ -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++11 -o CMakeFiles\\test1.dir\\src\\main.cpp.obj -c D:\\Ccode\\test\\src\\main.cpp",
+  "file": "D:\\Ccode\\test\\src\\main.cpp",
+  "output": "CMakeFiles\\test1.dir\\src\\main.cpp.obj"
+},
+{
+  "directory": "D:/Ccode/test/build",
+  "command": "D:\\Qt\\Tools\\mingw810_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -ID:/Ccode/test/build -ID:/Ccode/test -ID:/Ccode/test/build/test1_autogen/include -isystem D:/Qt/5.15.2/mingw81_64/include -isystem D:/Qt/5.15.2/mingw81_64/include/QtWidgets -isystem D:/Qt/5.15.2/mingw81_64/include/QtGui -isystem D:/Qt/5.15.2/mingw81_64/include/QtANGLE -isystem D:/Qt/5.15.2/mingw81_64/include/QtCore -isystem D:/Qt/5.15.2/mingw81_64/./mkspecs/win32-g++ -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++11 -o CMakeFiles\\test1.dir\\src\\test1.cpp.obj -c D:\\Ccode\\test\\src\\test1.cpp",
+  "file": "D:\\Ccode\\test\\src\\test1.cpp",
+  "output": "CMakeFiles\\test1.dir\\src\\test1.cpp.obj"
+}
+]

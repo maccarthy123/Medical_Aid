@@ -1,0 +1,17 @@
+# ninja log v6
+7	983	7671754962996906	test1_autogen/timestamp	9665e312842d6252
+997	3139	7671754964843273	CMakeFiles/test1.dir/test1_autogen/mocs_compilation.cpp.obj	abc4fb392685d21d
+3171	3631	7671754986572408	test1.exe	d396d5e1a67282e7
+7	983	7671754962996906	test1_autogen/mocs_compilation.cpp	9665e312842d6252
+7	983	7671754962996906	D:/Ccode/test/build/test1_autogen/timestamp	9665e312842d6252
+7	983	7671754962996906	D:/Ccode/test/build/test1_autogen/mocs_compilation.cpp	9665e312842d6252
+1012	3145	7671754964992598	CMakeFiles/test1.dir/src/main.cpp.obj	4af9426f438dc36a
+1024	3170	7671754965112141	CMakeFiles/test1.dir/src/test1.cpp.obj	87de7830f419122a
+4	430	7672753814965691	test1_autogen/timestamp	9665e312842d6252
+4	430	7672753814965691	test1_autogen/mocs_compilation.cpp	9665e312842d6252
+4	430	7672753814965691	D:/Ccode/test/build/test1_autogen/timestamp	9665e312842d6252
+4	430	7672753814965691	D:/Ccode/test/build/test1_autogen/mocs_compilation.cpp	9665e312842d6252
+432	2352	7672753815693712	CMakeFiles/test1.dir/test1_autogen/mocs_compilation.cpp.obj	abc4fb392685d21d
+436	2356	7672753815736831	CMakeFiles/test1.dir/src/main.cpp.obj	4af9426f438dc36a
+440	2357	7672753815776832	CMakeFiles/test1.dir/src/test1.cpp.obj	87de7830f419122a
+2357	3128	7672753834951509	test1.exe	d396d5e1a67282e7
